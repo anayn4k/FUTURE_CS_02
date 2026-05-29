@@ -1,0 +1,22 @@
+SAMPLE EMAIL 2
+
+From: it-helpdesk@yourcompany-support.net
+Reply-To: reset@mail-helpdesk.xyz
+Subject: ACTION REQUIRED: Your Password Expires Today
+
+Dear Employee,
+
+Your company email password will expire in 2 hours.
+
+To avoid losing access to your account, please reset 
+your password immediately using the link below:
+
+>> Reset Password Now: http://reset-portal-secure.xyz/login
+
+If you do not reset your password, your account will 
+be locked and you will need to contact IT manually.
+
+This is an automated message. Do not reply to this email.
+
+IT Support Team
+yourcompany-support.net

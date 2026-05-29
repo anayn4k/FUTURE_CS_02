@@ -1,0 +1,24 @@
+SAMPLE EMAIL 1
+
+From: security@bankofamerica-alerts.net
+Reply-To: collect@mail-support.ru
+Subject: Urgent: Your Account Has Been Suspended
+
+Dear Customer,
+
+We have detected unusual login activity on your Bank of America 
+account. Your account has been temporarily suspended for your 
+protection.
+
+To restore access, you must verify your identity immediately:
+
+>> Click Here to Verify: http://boa-secure-login.net/verify
+
+You have 24 hours to complete verification. Failure to do so 
+will result in permanent account closure.
+
+Do not ignore this message.
+
+Regards,
+Bank of America Security Team
+support@bankofamerica-alerts.net

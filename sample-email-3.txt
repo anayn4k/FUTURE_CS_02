@@ -1,0 +1,22 @@
+SAMPLE EMAIL 3
+
+From: delivery@dhl-trackingportal.com
+Reply-To: noreply@dhl-parcels.ru
+Subject: Your Package Could Not Be Delivered — Action Required
+
+Dear Customer,
+
+We attempted to deliver your package today but were 
+unable to complete the delivery.
+
+To reschedule your delivery, please confirm your 
+address and pay a small redelivery fee of $1.99:
+
+>> Reschedule Delivery: http://dhl-redelivery-portal.com/track
+
+Your package will be returned to sender within 48 hours 
+if no action is taken.
+
+Tracking Number: DHL-48271930
+
+DHL Customer Service
